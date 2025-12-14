@@ -1,0 +1,8 @@
+{
+  "name": "Vision-Tracker Pro",
+  "description": "A high-performance video analytics dashboard utilizing Gemini 2.5 Flash for object detection, featuring persistent tracking, trajectory visualization, and ROI analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
